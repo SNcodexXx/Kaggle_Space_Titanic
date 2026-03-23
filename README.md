@@ -1,5 +1,4 @@
-# ML_course_HW_2
-Для выполнения ДЗ использовался датасет "Spaceship Titanic" (https://www.kaggle.com/competitions/spaceship-titanic).
+"Spaceship Titanic" (https://www.kaggle.com/competitions/spaceship-titanic)
 
 Были добавлены следующие фичи:
   1. total_spend - сумма всех трат
